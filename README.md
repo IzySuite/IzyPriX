@@ -1,1 +1,1 @@
-# IzyPriX
+# IzyPrix
