@@ -1,1 +1,1 @@
-# IzyPrix
+# HizPrix
