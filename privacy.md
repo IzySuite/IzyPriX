@@ -1,4 +1,4 @@
-# Politique de Confidentialité / Privacy Policy — IzyPrix  
+# Politique de Confidentialité / Privacy Policy — hizPrix  
 **Dernière mise à jour / Last updated : 13 mai 2026**
 
 ---
@@ -9,9 +9,9 @@
 
 ---
 
-# 🇫🇷 Politique de Confidentialité — IzyPrix (FR)
+# 🇫🇷 Politique de Confidentialité — hizPrix (FR)
 
-L’application **IzyPrix** (package : `com.izysuite.izyprix`), développée par **IzySuite**, est un outil professionnel destiné à la gestion des prix au sein du magasin ProAlim (Elsau).  
+L’application **hizPrix** (package : `com.hizsuite.hizprix`), développée par **hizSuite**, est un outil professionnel destiné à la gestion des prix au sein du magasin ProAlim (Elsau).  
 Nous accordons une importance capitale à la protection de votre vie privée.
 
 ---
@@ -19,7 +19,7 @@ Nous accordons une importance capitale à la protection de votre vie privée.
 ## 1. Données collectées et accès
 
 ### 1.1. Caméra (Scanner de codes-barres)
-IzyPrix demande l'accès à la caméra uniquement pour scanner les codes-barres EAN‑13 des produits.
+hizPrix demande l'accès à la caméra uniquement pour scanner les codes-barres EAN‑13 des produits.
 
 - **Traitement local :** L’analyse de l’image est effectuée directement sur l’appareil via Google ML Kit.  
 - **Confidentialité :** Aucune image ou vidéo n’est enregistrée, stockée ou transmise.
@@ -30,7 +30,7 @@ IzyPrix demande l'accès à la caméra uniquement pour scanner les codes-barres 
 L’application vérifie uniquement si l’appareil est connecté à un réseau Wi‑Fi.
 
 - **Usage :** Assurer la communication avec le serveur local et l’imprimante du magasin.  
-- **Vie privée :** IzyPrix ne collecte aucune donnée de localisation et ne lit pas le SSID.
+- **Vie privée :** hizPrix ne collecte aucune donnée de localisation et ne lit pas le SSID.
 
 ---
 
@@ -58,7 +58,7 @@ Les données manipulées (codes-barres, noms, prix) servent uniquement à :
 ---
 
 ## 4. Partage avec des tiers
-IzyPrix est **sans publicité** et **sans traqueur**.
+hizPrix est **sans publicité** et **sans traqueur**.
 
 - Aucune donnée n’est vendue ou partagée.  
 - Aucune donnée n’est transmise à des services d’analyse.
@@ -74,13 +74,13 @@ Aucune communication externe non documentée n’est effectuée.
 
 ## 6. Contact
 Pour toute question concernant vos données :  
-📧 **izysuite.dev@gmail.com**
+📧 **hizsuite.dev@gmail.com**
 
 ---
 
-# 🇬🇧 Privacy Policy — IzyPrix (EN)
+# 🇬🇧 Privacy Policy — hizPrix (EN)
 
-The **IzyPrix** application (package: `com.izysuite.izyprix`), developed by **IzySuite**, is a professional tool used for price management inside the ProAlim store (Elsau).  
+The **hizPrix** application (package: `com.hizsuite.hizprix`), developed by **hizSuite**, is a professional tool used for price management inside the ProAlim store (Elsau).  
 We are committed to protecting your privacy and ensuring transparent data practices.
 
 ---
@@ -88,7 +88,7 @@ We are committed to protecting your privacy and ensuring transparent data practi
 ## 1. Data Collected and Access
 
 ### 1.1. Camera (Barcode Scanner)
-IzyPrix requests access to the device camera solely to scan EAN‑13 product barcodes.
+hizPrix requests access to the device camera solely to scan EAN‑13 product barcodes.
 
 - **Local processing:** All image analysis is performed directly on the device using Google ML Kit.  
 - **Privacy:** No images or videos are recorded, stored, or transmitted.
@@ -99,7 +99,7 @@ IzyPrix requests access to the device camera solely to scan EAN‑13 product bar
 The app only checks whether the device is connected to a Wi‑Fi network.
 
 - **Purpose:** Ensure communication with the store’s local server and label printer.  
-- **Privacy:** IzyPrix does **not** collect location data and does **not** read the Wi‑Fi SSID.
+- **Privacy:** hizPrix does **not** collect location data and does **not** read the Wi‑Fi SSID.
 
 ---
 
@@ -127,7 +127,7 @@ The data handled (barcodes, product names, prices) is used exclusively to:
 ---
 
 ## 4. Sharing with Third Parties
-IzyPrix is **ad‑free** and **tracker‑free**.
+hizPrix is **ad‑free** and **tracker‑free**.
 
 - No data is sold or shared.  
 - No data is transmitted to analytics services.
@@ -143,4 +143,4 @@ No undocumented external communication is performed.
 
 ## 6. Contact
 For any questions regarding your data:  
-📧 **izysuite.dev@gmail.com**
+📧 **hizsuite.dev@gmail.com**
