@@ -1,5 +1,5 @@
 # Politique de Confidentialité / Privacy Policy — IzyPrix  
-**Dernière mise à jour / Last updated : 24 mai 2024**
+**Dernière mise à jour / Last updated : 13 mai 2026**
 
 ---
 
